@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "base_track": "ただ声一つ",
+  "base_artist": "Rokudenashi",
+  "createdAt": "2026-03-20T15:23:11.010468Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ただ声一つ",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/01_ただ声一つ_ロクデナシ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ただ声一つ",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/02_ただ声一つ_ロクデナシ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ただ声一つ",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/03_ただ声一つ_ロクデナシ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ただ声一つ",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/04_ただ声一つ_ロクデナシ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ただ声一つ",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/05_ただ声一つ_ロクデナシ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ただ声一つ",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/06_ただ声一つ_ロクデナシ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ただ声一つ",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_01_ただ声一つ_ロクデナシ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ただ声一つ",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_02_ただ声一つ_ロクデナシ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ただ声一つ",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_03_ただ声一つ_ロクデナシ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ただ声一つ",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_04_ただ声一つ_ロクデナシ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ただ声一つ",
+      "artist": "Rokudenashi",
+      "has_synced": true,
+      "path": "select/localdb_01_ただ声一つ_Rokudenashi.lrc",
+      "repo_name": "5GUaMOpfmr8"
+    }
+  ]
+}
